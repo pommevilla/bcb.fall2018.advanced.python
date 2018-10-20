@@ -2,15 +2,16 @@
 
 Materials for the *Advanced Python* of the Fall 2018 Python Workshops hosted by the [Bioinformatics and Computational Biology Graduate Student Organization (BCBGSO)][bcbgso-stuorg] on October 20, 2018.  
 
+[Begin the workshop](https://nbviewer.jupyter.org/github/pommevilla/bcb.fall2018.advanced.python/blob/master/lessons/advanced.python.1.ipynb).
+
 ## About this Workshop
 
-There are 5 parts to this workshop:
+There are 3 parts to this workshop:
 
 * [Introduction](lessons/advanced.python.1.ipynb) 
 * [Jupyter Notebooks](lessons/advanced.python.2.ipynb)
-* [Pandas](lessons/advanced.python.3.ipynb)
 * [scikit-learn](lessons/advanced.python.4.ipynb)
-* [Next Steps](lessons/advanced.python.5.ipynb)
+
 
 ## About the BCBGSO
 
