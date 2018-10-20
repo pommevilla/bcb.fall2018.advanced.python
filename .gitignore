@@ -1,5 +1,4 @@
 *.mlx
-*.csv
 MANIFEST
 build
 *.m
